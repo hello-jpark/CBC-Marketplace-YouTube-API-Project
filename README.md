@@ -1,4 +1,4 @@
-# # YouTube API Project - CBC News Analysis
+# YouTube API Project - CBC News Analysis
 ***
 
 ## Introduction
